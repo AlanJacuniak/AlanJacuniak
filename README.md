@@ -6,7 +6,13 @@
 
 :moyai: Olá, me chamo Alan!
 
+:office: Sou Analista de Suporte e estou estudando programação
 
+:closed_book: Tecnólogo em Análise e Desenvolvimento de Sistemas
+
+:green_book: Pós-Graduando em Desenvolvimento Back-End
+
+:busstop: [Acesse o meu Linkedin](https://www.linkedin.com/in/alanjacuniak/)
 
 <!--
 **AlanJacuniak/AlanJacuniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
