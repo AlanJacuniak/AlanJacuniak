@@ -1,6 +1,12 @@
-### Helo Word! I'm Alan Jacuniak 👋
-
+## Helo Word! I'm Alan Jacuniak 👋
+--------------------------------------------
 ![Gif do dog](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRnNGxzdWlkaHlvaWt0NWdybnh4cTdkZTR5aXk0YjQ3b2dsMTRxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yx5ns1mSPBle0/giphy.webp)
+
+--------------------------------------------
+
+:moyai: Olá, me chamo Alan!
+
+
 
 <!--
 **AlanJacuniak/AlanJacuniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
